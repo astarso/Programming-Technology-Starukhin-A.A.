@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-
+// https://github.com/astarso/Programming-Technology-Starukhin-A.A./tree/Homework-8.4
 
 // Абстрактный класс функция
 class Function {

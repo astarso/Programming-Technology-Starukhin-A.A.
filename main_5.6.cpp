@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// https://github.com/astarso/Programming-Technology-Starukhin-A.A./tree/Homework-5.6
+
 const int N = 3; // Количество строк
 const int M = 4; // Количество столбцов
 

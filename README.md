@@ -26,5 +26,5 @@
 - [Homework-8.2](https://github.com/astarso/Programming-Technology-Starukhin-A.A./tree/Homework-8.2)
 - [Homework-8.4](https://github.com/astarso/Programming-Technology-Starukhin-A.A./tree/Homework-8.4)
 - [Homework-8.5](https://github.com/astarso/Programming-Technology-Starukhin-A.A./tree/Homework-8.5)
-- [Homework-9.1](https://github.com/astarso/Programming-Technology-Starukhin-A.A./tree/Homework-9.1)
-- [Homework-9.2](https://github.com/astarso/Programming-Technology-Starukhin-A.A./tree/Homework-9.2)
+
+# Экзамен сдан 84 из 100 баллов

@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <string.h>
 
+// https://github.com/astarso/Programming-Technology-Starukhin-A.A./tree/Homework-7.4
+
 // Функция, которая изменяет первый и последний символ в строке на заданный символ
 char* changeFirstLastChar(char *str, char ch) {
     int len = strlen(str);
